@@ -126,6 +126,7 @@
     </style>
 
     <style name="PeopleTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@android:color/black</item>
         <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
         <item name="android:actionBarItemBackground">@drawable/action_bar_item_background</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
