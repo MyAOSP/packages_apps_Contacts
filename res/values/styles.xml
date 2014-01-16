@@ -143,10 +143,12 @@
     </style>
 
     <style name="ContactsPreferencesTheme" parent="@android:Theme.Holo">
+        <item name="android:actionBarStyle">@android:style/Widget.Holo.ActionBar.Solid</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
 
     <style name="ContactListFilterTheme" parent="@android:Theme.Holo">
+        <item name="android:actionBarStyle">@android:style/Widget.Holo.ActionBar.Solid</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
 
